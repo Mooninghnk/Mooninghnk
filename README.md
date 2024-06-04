@@ -1,4 +1,4 @@
-## RUST GO BRR
+## I like rust
 
 
 
