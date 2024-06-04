@@ -8,5 +8,5 @@
 
 - 🔭 I’m currently working on Web3 + Dioxus
 - 🌱 I’m currently learning Rust....
-- 📫 How to reach me: _benzmono_ discord
+- 📫 How to reach me: `_benzmono_` discord
 
