@@ -7,6 +7,6 @@
 
 
 - 🔭 I’m currently working on Web3 + Dioxus
-- 🌱 I’m currently learning Rust....
+- 🌱 I’m currently learning C....
 - 📫 How to reach me: `_benzmono_` discord
 
